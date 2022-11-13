@@ -22,7 +22,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8ef0e35f-0556-423e-adbc-784861b0b5f3}</ProjectGuid>
+    <ProjectGuid>{87e46e9d-5cde-4584-9400-2b0998d6fa0d}</ProjectGuid>
     <RootNamespace>HoloLens2Demo</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

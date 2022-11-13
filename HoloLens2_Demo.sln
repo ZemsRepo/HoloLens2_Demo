@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33027.164
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HoloLens2_Demo", "HoloLens2_Demo.vcxproj", "{8EF0E35F-0556-423E-ADBC-784861B0B5F3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HoloLens2_Demo", "HoloLens2_Demo\HoloLens2_Demo.vcxproj", "{87E46E9D-5CDE-4584-9400-2B0998D6FA0D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleProject", "SimpleProject\SimpleProject.vcxproj", "{0512BA88-5773-4411-8665-DD9A10281489}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +15,22 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8EF0E35F-0556-423E-ADBC-784861B0B5F3}.Debug|x64.ActiveCfg = Debug|x64
-		{8EF0E35F-0556-423E-ADBC-784861B0B5F3}.Debug|x64.Build.0 = Debug|x64
-		{8EF0E35F-0556-423E-ADBC-784861B0B5F3}.Debug|x86.ActiveCfg = Debug|Win32
-		{8EF0E35F-0556-423E-ADBC-784861B0B5F3}.Debug|x86.Build.0 = Debug|Win32
-		{8EF0E35F-0556-423E-ADBC-784861B0B5F3}.Release|x64.ActiveCfg = Release|x64
-		{8EF0E35F-0556-423E-ADBC-784861B0B5F3}.Release|x64.Build.0 = Release|x64
-		{8EF0E35F-0556-423E-ADBC-784861B0B5F3}.Release|x86.ActiveCfg = Release|Win32
-		{8EF0E35F-0556-423E-ADBC-784861B0B5F3}.Release|x86.Build.0 = Release|Win32
+		{87E46E9D-5CDE-4584-9400-2B0998D6FA0D}.Debug|x64.ActiveCfg = Debug|x64
+		{87E46E9D-5CDE-4584-9400-2B0998D6FA0D}.Debug|x64.Build.0 = Debug|x64
+		{87E46E9D-5CDE-4584-9400-2B0998D6FA0D}.Debug|x86.ActiveCfg = Debug|Win32
+		{87E46E9D-5CDE-4584-9400-2B0998D6FA0D}.Debug|x86.Build.0 = Debug|Win32
+		{87E46E9D-5CDE-4584-9400-2B0998D6FA0D}.Release|x64.ActiveCfg = Release|x64
+		{87E46E9D-5CDE-4584-9400-2B0998D6FA0D}.Release|x64.Build.0 = Release|x64
+		{87E46E9D-5CDE-4584-9400-2B0998D6FA0D}.Release|x86.ActiveCfg = Release|Win32
+		{87E46E9D-5CDE-4584-9400-2B0998D6FA0D}.Release|x86.Build.0 = Release|Win32
+		{0512BA88-5773-4411-8665-DD9A10281489}.Debug|x64.ActiveCfg = Debug|x64
+		{0512BA88-5773-4411-8665-DD9A10281489}.Debug|x64.Build.0 = Debug|x64
+		{0512BA88-5773-4411-8665-DD9A10281489}.Debug|x86.ActiveCfg = Debug|Win32
+		{0512BA88-5773-4411-8665-DD9A10281489}.Debug|x86.Build.0 = Debug|Win32
+		{0512BA88-5773-4411-8665-DD9A10281489}.Release|x64.ActiveCfg = Release|x64
+		{0512BA88-5773-4411-8665-DD9A10281489}.Release|x64.Build.0 = Release|x64
+		{0512BA88-5773-4411-8665-DD9A10281489}.Release|x86.ActiveCfg = Release|Win32
+		{0512BA88-5773-4411-8665-DD9A10281489}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
